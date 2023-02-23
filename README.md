@@ -17,7 +17,7 @@
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Vlarfich.rusty-sj) -->
 
 <!-- ![a](https://github-readme-activity-graph.cyclic.app/graph?username=Vlarfich&theme=merko) -->
-![b](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vlarfich&theme=nord_bright)
+![b](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vlarfich&theme=nord_dark)
 
 
 <!-- ![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)
