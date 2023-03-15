@@ -1,6 +1,5 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![JUnit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -15,13 +14,21 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+<!-- ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) -->
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlarfich&hide=TeX&layout=compact) -->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Vlarfich.rusty-sj) -->
 
 <!-- ![a](https://github-readme-activity-graph.cyclic.app/graph?username=Vlarfich&theme=merko) -->
 ![b](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vlarfich&theme=nord_dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
+  <a media="(prefers-color-scheme: dark)">![]("https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vlarfich&theme=nord_dark")</a>
 
 <!-- [EF Certificate](https://www.efset.org/cert/QWsses) -->
 
