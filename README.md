@@ -25,8 +25,8 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vlarfich&theme=nord_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vlarfich&theme=transparent">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vlarfich&theme=transparent">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vlarfich&theme=nord_bright">
   <img alt="asset" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vlarfich&theme=nord_dark">
 </picture>
 
