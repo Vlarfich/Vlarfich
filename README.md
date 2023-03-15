@@ -25,6 +25,8 @@
 <!-- ![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)
 ![GitHub-Mark-Dark](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only) -->
 
+<a href="mailto:vladzhu607@gmail.com">![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="t.me/Vlarfich">![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
 [![](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/vlad-zhuravlev/)
-<a href="mailto:vladzhu607@gmail.com">![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
