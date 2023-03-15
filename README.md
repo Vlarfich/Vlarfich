@@ -21,14 +21,14 @@
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Vlarfich.rusty-sj) -->
 
 <!-- ![a](https://github-readme-activity-graph.cyclic.app/graph?username=Vlarfich&theme=merko) -->
-![b](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vlarfich&theme=nord_dark)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+<!-- ![b](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vlarfich&theme=nord_dark) -->
 
-  <a media="(prefers-color-scheme: dark)">![]("https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vlarfich&theme=nord_dark")</a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vlarfich&theme=nord_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vlarfich&theme=transparent">
+  <img alt="asset" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vlarfich&theme=nord_dark">
+</picture>
 
 <!-- [EF Certificate](https://www.efset.org/cert/QWsses) -->
 
