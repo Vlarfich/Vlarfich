@@ -16,8 +16,6 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 -->
 
-<!-- ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) -->
-
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlarfich&hide=TeX&layout=compact) -->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Vlarfich.rusty-sj) -->
@@ -40,6 +38,7 @@
 <a href="mailto:vladzhu607@gmail.com">![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vlarfich)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vlad-zhuravlev/)
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Vlarfich)
 
 <!-- [![](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/vlad-zhuravlev/) -->
 
